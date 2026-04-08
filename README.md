@@ -1,1 +1,5 @@
-# A-Trilha-da-Acad-mica---RNNs
+# A-Trilha-da-Acadêmica-RNNs
+Esse trabalho é uma atividade da disciplina de Redes Neurais e Algoritimos Genéticos da Ilum Escola de Ciência, aplicada pelo professor Daniel ROberto Cssar, que visa explicar uma Rede Neural Recorrente (RNN) de forma didática ao leitor.
+
+No Notebook principal encontra-se o conceito de uma RNN, como ela funciona e aplicação dela no dataset "Beijing Multi-Site Air Quality", disponível no UCI Machine Learning Repository sob o ID 501. Ele é um conjunto de dados amplamente utilizado em pesquisas e contém dados sobre poluentes do ar em 12 estações metereológicas diferentes na China. Geralmente é utilizado para implementar modelos de redes neurais que trabalhem com séries temporais, como RNNs, devido a importância da ordem de seus dados que dependem de informações anteriores. Isso porque se trata da concentração de diferentes poluentes no ar ao longo do tempo. Essa característica faz com que ele seja um ótimo conjunto de dados para modelagem preditiva, como prever a concentração de determinado contaminante na próxima hora, dia ou semana por exmplo. Ele está dividido em 18 colunas totais, sendo as 5 primeiras identificador e dados de data hora, seguido por concentração de poluentes e gases e as últimas são condições do ambiente e o nome da estação. 
+
